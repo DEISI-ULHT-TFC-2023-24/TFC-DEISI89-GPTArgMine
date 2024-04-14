@@ -1,0 +1,5 @@
+scikit-learn==1.1.1
+krippendorff==0.5.1
+matplotlib==3.5.1
+numpy==1.22.3
+json5==0.9.8
