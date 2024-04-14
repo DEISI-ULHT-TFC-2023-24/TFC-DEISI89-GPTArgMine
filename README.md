@@ -96,7 +96,7 @@ Now, you're ready to run the project.
 
 In [VSCode](https://code.visualstudio.com/download), select 'Run All' to execute the scripts at once. Or, select the 'Run' button next to each of the scripts to execute them individually.
 
-### Deactivate the Virtual Environment
+### 5. Deactivate the Virtual Environment
 
 When you're done working on the project, you can deactivate the virtual environment by simply running:
 
