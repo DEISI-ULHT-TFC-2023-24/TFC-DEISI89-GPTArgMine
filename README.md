@@ -29,7 +29,7 @@ In this code, we used the implementation 'Fast Krippendoff' by Santiago Castro t
 ## Results
 We used two methodologies* to evaluate the reliability of our annotatiors and we achieved the following results: 
 ### **Methodology 1**
-Krippendorff's **ɑ =~ 0.84**
+Krippendorff's **ɑ =~ 0.83**
 #### Confusion Matrix
 ![Confusion Matrix Methodology 1](assets/matrix1.png)
 ### **Methodology 2**
