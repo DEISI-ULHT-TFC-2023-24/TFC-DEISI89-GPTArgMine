@@ -65,7 +65,7 @@ Follow these instructions to set up and run the project locally on your machine.
 First, clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/lcopolillo/TFC-DEISI-89
+git clone https://github.com/DEISI-ULHT-TFC-2023-24/TFC-DEISI89-GPTArgMine.git
 cd repository
 ```
 
