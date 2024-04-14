@@ -1,4 +1,4 @@
-# DEISI89 - Argumentation Mining in multi-party dialogues
+# DEISI89 - GPTArgMine
 *Leveraging Large Language Models and ChatGPT for argumentation mining in multi-party dialogues*
 
 **Author:** Luiza Vidal Copolillo Coelho.
