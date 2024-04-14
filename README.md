@@ -9,7 +9,7 @@
 This Undergraduate Thesis proposes developing a pipeline for using GPT technology to mine arguments in online chat texts. The central point lies in the design and implementation of a system that takes advantage of GPT's advanced capabilities to identify and analyze arguments present in virtual, multi-party dialogues. The methodology ranges from data collection and preparation to efficient integration with the GPT model, providing valuable insights into the structure and dynamics of the arguments present in these online interactions. This work aims to contribute significantly to the advancement of research around argument mining by analyzing the potential of GPT technology as an effective tool in this context.
 
 ## Additional Notes
-- The data under analysis is part of a broader project, which is the reason for its lack of public availability.
+- The data under analysis is part of a broader project, which is the reason for its lack of public availability. For this reason, **the code cloned by people unrelated to the project may not work for now**.
 - All versions of the Annotation Manual are available in the *Annexes* folder.
 - **Annotator 1:** Luiza Coelho; **Annotator 2:** Zuil Pirola.
 
@@ -28,10 +28,14 @@ In this code, we used the implementation 'Fast Krippendoff' by Santiago Castro t
 
 ## Results
 We used two methodologies* to evaluate the reliability of our annotatiors and we achieved the following results: 
-##### **Methodology 1**
-ɑ =~ 0.84
-##### **Methodology 2**
-ɑ =~ 0.77
+### **Methodology 1**
+Krippendorff's **ɑ =~ 0.84**
+#### Confusion Matrix
+![Confusion Matrix Methodology 1](assets/matrix1.png)
+### **Methodology 2**
+Krippendorff's **ɑ =~ 0.77**
+#### Confusion Matrix
+![Confusion Matrix Methodology 1](assets/matrix2.png)
 
 *Both methodologies are described in detail in the project report.
 
