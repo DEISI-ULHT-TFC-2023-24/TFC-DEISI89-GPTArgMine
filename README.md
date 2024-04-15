@@ -13,7 +13,7 @@ This Undergraduate Thesis proposes developing a pipeline for using GPT technolog
 
 ## Additional Notes
 - The data under analysis is part of a broader project, which is the reason for its lack of public availability. For this reason, **the code cloned by people unrelated to the project may not work for now**.
-- All versions of the Annotation Manual are available in the *Annexes* folder.
+- All versions of the Annotation Manual will available in the *Annexes* folder.
 - **Annotator 1:** Luiza Coelho; **Annotator 2:** Zuil Pirola.
 
 
