@@ -1,0 +1,200 @@
+TEXT: Ent significa o que???? Que não estamos de acordo ahahahah 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Simpática e muito na minha 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Concordo.                                                       
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: *anos
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: olá bom dia
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: será mesmo?
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: por exmplo a homofobia e a xenofobia
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: mas isto depende de cada pessoa, se continuar a haver  pessoas  sem respeito e acha que é engraçado discriminar alguem so por ser diferente vai sempre haver racismo 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: concordo
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: com manmteiga
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: exato cada pessoa constroi a sua imagem
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Falamos muito mas não chegamos a lado nenhum
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: nao tenho uma opiniao fixa
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: !!!!!!
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: as novas gerações são muito diferentes das anteriores
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: < outro idioma >
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: cada pessoa 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: ih e careca
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Mas mesmo assim sentem sempre alguma coisa
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Às vezes contra os brancos mas é mais raro
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: uuuuuu
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Claro, podem sempre 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: concordo!
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Quem te disse que é para nós focarmos em atos de homens contra mulheres, e não o contrário?
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: < ruído >
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Exactamente, é separação em grupos que o Moderador falou mais atrás 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Não existe argumentos que justifiquem esse ato…
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: ser bot
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: isso ja depende muito da educação da pessoa
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Concordo sem qualquer sombra de duvida. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Respiram 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: sim mas nao é do dia para a noite
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: toda a gente burrus
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: concordo
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: eu nºao sou
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Ser assustador*. Desculpem parceiros, é muita ideia de cada vez. 
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: Defina argumento
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Acho que deveria ser um direito, e o governo deveria localizar mais esforços na educação da população em relação a este assunto.
+SUBJECT: Vacinação: Dever ou direito
+RESPONSE: '1'
+
+TEXT: Concordo.
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Estou pronta 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: podemos sair?
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Boa tarde, Moderador Alfa
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: PRECISAMOS DE OCNCLUSÕES CONCLUSÕES*
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Claro que são reduzidos os casos mas também acontecem
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Sim
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: LA ESTA MAS NINGUEM APRENDE
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Olá bom dia tudo bem?
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Obrigado nós, por podemos ter tido a oportunidade de discutir este tema aqui
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: concordo
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Para certas pessoas, o não mostrar agrado pode resultar no desrespeito para com os outros.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+

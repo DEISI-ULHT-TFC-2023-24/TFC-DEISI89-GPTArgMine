@@ -1,0 +1,2608 @@
+TEXT: diz
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: yes
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: < outro idioma >
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Dedicado
+SUBJECT: Racismo e discriminação
+RESPONSE: 0
+
+TEXT: As pessoas para além de seres racionais e emocionais 
+SUBJECT: Racismo e discriminação
+RESPONSE: 0
+
+TEXT: sim era isso que deviamos fazer 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Estou preparado para começar 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Eu bater a um racista é racista!?
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Mas podia falar em Português
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: opa sla
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: boa < pessoa >
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: sim
+SUBJECT: Racismo e discriminação
+RESPONSE: 0
+
+TEXT: desculpa parceiro. irei melhorar os meus argumentos!👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: Universal
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Ansioso para ver no que este debate vai dar
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Isso não tem nada a ver com o que eu disse
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: o racismo é em termos de sociedade 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Nao é assim tao fácil n é dizer e acontecer 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: obrigado ahaha
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: logo os padroes de beleza sao diferentes
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: real
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Aplicados. Às vezes um pouco depressivos, mas quando querem sabem meter um sorriso no rosto dos outros
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Não concordam que o homem nasce naturalmente bom?
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Sim, estou aqui há espera de poder intervir.
+SUBJECT: Estereótipos de beleza
+RESPONSE: '0'
+
+TEXT: CONCORDO , METEM DE PARTE UM COTO , DEVIAM DE SER UNIDOS
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Defina argumento
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: tudo 2
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: filho vai te educar
+SUBJECT: Racismo e discriminação
+RESPONSE: 0
+
+TEXT: Como disse a ema a gua de Macedo de cavaleiros 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Sim
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: nao consegues suportar a tua conclusao
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: que a turma e linda
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Eun🙌
+SUBJECT: Racismo e discriminação
+RESPONSE: 0
+
+TEXT: DE NADA AHAHAHAHAHBHA
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: universal 
+SUBJECT: Racismo e discriminação
+RESPONSE: 0
+
+TEXT: Sim infelizmente 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: claro que sim! Daí o "principalmente"
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Se tivessem algum problema, deviam tratar-se, mas mesmo assim podem não conseguir 
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: Muito simples mas com uma mensagem interessante 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Parceiro isso só vai depender do agressor 
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: qualquer coisa vem arrifana
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Dizem que a esperança é a última a morrer
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Acho que podemos ficar por aqui. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: isso nao quer dizer que um argentino seja a minha ideia de um argentino.... nao sei se me fiz entender
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Obrigado parceiro, vou lembrar-me de ti sempre. 
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: acho que todas as pessoas na sua vida inteira já criticaram alguém
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: devia ser todos lavar a roupa no tanque
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Simpatica, querida, fofinha, amorosa 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Sim, como em todo lado. Talvez não seja tão demonstrado como noutros países tais como os States. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Universal, havendo até alguns negros a praticá-lo
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: nao nao existe consenso nenhum .......
+SUBJECT: Estereótipos de beleza
+RESPONSE: '0'
+
+TEXT: mas lápornão estarmos de acordo com tudo não significa que possamos desrespeitar os outros
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Sim isso é facto, mas era suposto falarmos de agressões sexuais em geral, e não em específico de um sexo para o outro, acho eu
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: pois claro por isso que respeito a grande CARTEIRA EM MONTE                                        
+SUBJECT: Estereótipos de beleza
+RESPONSE: '0'
+
+TEXT: Conforme o ponto de vista de cada um
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: ola gordos
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Todos tem opinioes diferentes dependendo das suas experiencias de vida
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Concordo porque cada um de nós tem a sua sxualidade e nao tem que ser todo igual
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Como assim como antigamente 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: concordo1 nem que tenhya sido para comentar alguma coisa sobre a pessoa 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Não é bem assim porque tu não mudas de opinião do dia para a noite tens que ter bons argumentos que façam essas pessoas mudarem de opinião 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Lol, toda a gente diria isso. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Para chegar a uma conclusão é preciso ser nós todos a tentar em cada escola , em cada casa mudar certos pensamentos que levam ao preconceito 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: sim
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: uma feira da ladra
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Infelizmente sim é ao que leva 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: O caos está por toda a parte e é isso que a torna única e singular 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: perspetiva interessante
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Respeitadoooooo apoiadooooooo, adorei sua resposta 
+SUBJECT: Estereótipos de beleza
+RESPONSE: '0'
+
+TEXT: exatamente!! se te sentes bem vestido assim, isso é o mais importante. sê feliz parceiro.
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: todos
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: boa tarde a todos
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Exato
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Temos o dever como ser humano dar o mesmo trato as pessoas para ela depois sermos retribuídos da mesma forma
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Frustração por não sentirem o que os outros sentem. Isso é o que eles senten 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: em*
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Sim
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: aiiiiii tu primo meu sou cigano mas sou bom rapaz
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: ja ta na hora de muda de assunto
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Não.                                                                 
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: tambem
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Nao 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: E vistam-se como quiserem                         
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: Isso é racismo! Não é por ser cigano que tem de falar assim!
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: podem, imagina um argentino, tu vais imagina-lo pelo esteriotipo de argentino que tens
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: morre
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: o que não nos torna menos ou mais que ninguém, continuamos Humanos
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: mas as pessoas de 2007 pioram a turma...
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Concordo totalmente
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: és perfeito? 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: sim, nao estou a dizer o contrario
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: mecanismo redutor
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Apenas serem seres humanos 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Não, a não é uma ideia com que tu nasces, é te incutida
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Então acho que podemos começar...
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: concordo
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: concordo 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: nao
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: ma pessoa....
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Literalmente. Cada um é que opta por praticá-lo ou não.
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Ta em casa
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Pretendo atingir os meus objetivos de forma justa e como recompensa do meu trabalho 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: 2007 nao tem uma opinao significante
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: < ruído >
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: racismo e errado
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: e é um processo muito demorado 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: ......
+SUBJECT: Racismo e discriminação
+RESPONSE: 0
+
+TEXT: Ta top xuxa
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: LA ESTA MAS NINGUEM APRENDE
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: pois
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: por exmplo a homofobia e a xenofobia
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Tal ideia seria um pensamento muito estagnado.
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Claro que não
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: isso mesmo
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: eu posso caracterizar as pessoas mas a turma em si nao
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: por vezes pode uma invalidar a outra, pois se nos focarmos só na beleza exterior podemos gerar problemas devido a pressão dos estereótipos
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Justifica a tua resposta por favor
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: falou pouco mas falou bem
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: definitivamente
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: + o homem não aguenta ficar quieto no seu lugar?
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: Mais uma vez estás te a contradizer
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Boa Tarde
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Depende do modo de educação, porem eu acho que é uma atitude universal como algo embutido na nossa sociedade 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: e por isso a evolução vai-se dar no sentido de unificar a humanidade
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: sim
+SUBJECT: Racismo e discriminação
+RESPONSE: 0
+
+TEXT: concordo plena e totalmente
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: CHEGUE LOGO MDS
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Devem ser todos reunidos e ajudar uns aos outros
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Concordo
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: muahahahaha
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Boa tarde a todos!
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Bom dia, estou pronta para começar.
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: sem palavras.... bem dito
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: mas cuidado, porque, infelizmente, ha malta jovem que gosta de dar para esses lados
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: É isso mesmo. Tenho a mesma opinião que tu                        
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: mano...
+SUBJECT: Racismo e discriminação
+RESPONSE: 0
+
+TEXT:  a202320231 tu tens que ser delegado de turma.                                                    
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: black no
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: não, se não soubees outra realidade, não es capaz de, sozinho, fazer esses juízos valorativos.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Cala te catalão 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: falta de respeito
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Por outras pessoas
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Algum tipo de evidenxja
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: ???
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: porque
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: quem manda aqui'
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: É algo que desfavorece uma cultura e nos tiramos uma opinião errada sobre essa tal Cultura através destes estereótipos
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: cala boca
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: ...
+SUBJECT: Racismo e discriminação
+RESPONSE: 0
+
+TEXT: cada um tem o modo de pensar (L7onn
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: E que tal nós todos violarmos o código vski na prozis para ter novas roupas para vestir assim ninguém é agredido ou assediado 
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: "Socialmente aceite com leveza" Sexualidade*
+SUBJECT: Racismo e discriminação
+RESPONSE: 0
+
+TEXT: Podemos começar?
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: concordo plenamente 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Ent significa o que???? Que não estamos de acordo ahahahah 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Mas não vais fazer isso á força, não é chegares lá e começares a mudar os princípios da pessoa, se ela acha que os seus princípios são certos, então alguma coisa de errado não está certa
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: porque?
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: A água para consom9 próprio é boa para Macedo de 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Barulhenta hahahhaha 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Sem dúvida 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: *anos
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: eu também 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Nem vi o video 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: bem movimentado este debate                                                                         
+SUBJECT: Estereótipos de beleza
+RESPONSE: '0'
+
+TEXT: devagar se vai ao longe
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Porque é que ela diz isso ?
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Estou pronta 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Algo de errado não está certo
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Sim, todos nós somos racionais. Conseguimos destinguir o que é bom ou mau. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: < outro idioma >
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: racismo é para a comunidade inteira
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Nunca será possivel
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Existe, sim, acho k existe em todo o lado 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: < ruído >
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: VAMOS CASAR TODOS
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: somos mais que as partes
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: ucraniana 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: koka
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: provas?
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: bom dius bom dius
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: já está na hora , podemos começar?
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: O facto de serem seres humanos 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: a a mudar a sua aparência, destruindo, aos poucos, o seu próprio corpo
+SUBJECT: Estereótipos de beleza
+RESPONSE: '0'
+
+TEXT: somos nos que fazemos a diferença 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: AAHAHAHAHA
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: possuimos todos o poder de pensar, refletir e possuimos todos consciência
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: IHIHIH
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: um conjunto único de partes que não é definível separadamente e depois formando um conjunto de forma correctamente definido
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: bom dia
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Exactamente, é separação em grupos que o Moderador falou mais atrás 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: quem diz argentino fiz mexicano a cflassica imagem de um hoem com um bigode guacamole e um sombrero
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: E depois bater-lhe
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Estou preparado para começar
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Claro que a diferença pode não ser tão acentuada como nos PED mas mesmo em Portugal isso existe
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: exato
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: sim depende da pessoa mas sim
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: < outro idioma > < outro idioma >
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: ??????
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: sim 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Não. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Não, todos temos de tentar conviver uns com os outros
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: vrd
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: pelo contrario, é tecer julgamento sem saber, por vezes, o que se está a julgar
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Ao nível do plano nacional de vacinação, que contem a maior parte das vacinas importantes, estas são grátis.
+SUBJECT: Vacinação: Dever ou direito
+RESPONSE: '1'
+
+TEXT: O que causa o racismo?
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: ja ta na hora
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: defeniria a minha turma uma turma fixe mas poderia ser melhor se fosse toda unida nao em grupos
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: é notavel
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: e é por isso que temos que mostrar formas de modo a acabarem com estes problemas ou pelo menos diminuir a gravidade
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: 👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼👍🏼
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: Concordo
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: então o que é que no mundo é perfeito para ti?
+SUBJECT: Estereótipos de beleza
+RESPONSE: '0'
+
+TEXT: concrodods
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Claro que são baseados em cenas reais. o ser humano criou o conceito com base em acontecimentos veridicos, que infelizmente ainda acontecem hoje me dia
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Unida, diversa e aberta
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: podemos sair?
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: concordo!
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: portanto o racismo será sempre um problema
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: como estao? tudo fixe
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: não, apenas as principais originam um conceito da pessoa
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: pff
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: haver há só que depende do ponto de vista de quem discute a questão
+SUBJECT: Estereótipos de beleza
+RESPONSE: '0'
+
+TEXT: Sim, mas o processo de julgamento é
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: ola como estão
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Experimentam essa discriminacao por isso nao têm dados certos
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: < outro idioma >
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Mas infelizmente o racismo ainda está muito presente e muita gente ainda acredita que o tom de pele nos define como pessoas
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: não
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Eu tomo esteróides para ficar belo e grosso 
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Nada... 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: ih e careca
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Eu acho que não é bem assim, ok comparado com antigamente já não existe escravatura e tal, mas não achas que se a situação estivesse controlada teriamos pessoas negras a serem assassinadas pelas autoridades por simplesmente serem negras??
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: OK. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: deviam todos levar com piri pir 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Nunca criticaste ou julgaste alguém?
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Nada é perfeito, mas podemos sempre tentar alcançar a perfeição
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Devido aos estereótipos e à sociedade 
+SUBJECT: Estereótipos de beleza
+RESPONSE: '0'
+
+TEXT: Exato! 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Depende de como é feito esse ajuste.  Pode não ser saudável tanto a nível biológico como a nível social, mas também pode não trazer qualquer problema para o indivíduo,
+SUBJECT: Estereótipos de beleza
+RESPONSE: '0'
+
+TEXT: marca a hora pq ai eu achego falta 10 minutos para acabar
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: prova disso é a propaganda de regimes autoritários
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: mas pode haver casos de pessoas que o fazem para se vingar de uma possivel descriminaçao sofrida anteriormente tipo como se fosse uma vingança
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: isto é tudo friendly fire?
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Sim 
+SUBJECT: Racismo e discriminação
+RESPONSE: 0
+
+TEXT: Concordo assim ninguém vai ser assediado ou agredido 
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: nao
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Drum. Drum
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Verdade
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: A educação tem um papel preponderante na formaç
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Não existe argumentos que justifiquem esse ato…
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: sim, acho que sim 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: definição pelo observavel...
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: não só não aceitam a diferença como também não procuram aprender com ela
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: mas existem pessoas que não iram fazer a sua parte logo o racismo NUNCA irá acabar
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: eu não lol
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Pois lá está tu não vais conseguir mudar os principios de uma pessoa, por isso esquece
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: TODOS
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: tal como a paz mundial
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Exato
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Faltaste às aulas de ciências em que se aprende que somos animais racionais
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: dá-se mais atenção a certas culturas
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: sim mais ou menos
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Humanidades e basta
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: concordooo
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: hoje em dia só gozam com as pessoas , devia de ver como antigamente 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Boa tarde
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: 288
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Hmmm...
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: ninguém disse que era uma característica de todas a s pessoas
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Que é isso? Utopia? 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: se cada um fizer a sua parte...
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Boas tardes 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Boas.                                                                      
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: Essas pessoas só fazem isso porque nunca sofreram na pele a descriminação
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Isso nao é justificação 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: mas respeito vem da educação 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Para certas pessoas, o não mostrar agrado pode resultar no desrespeito para com os outros.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Mas sempre podemos tentar e melhorar este problema e educar essas pessoas ignorantes
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Exato
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: isso depende da mentalidade das pessoas
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: true
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Muito obrigado, despeço-me com amizade
+SUBJECT: Estereótipos de beleza
+RESPONSE: '0'
+
+TEXT: É difícil de definir se não as conhecemos bem. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: depende da pessoa
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Claro que sim…
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: olá bom dia
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Concordo plenamente contigo.        
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: drum
+SUBJECT: Racismo e discriminação
+RESPONSE: 0
+
+TEXT: mas isso é um mecanismo natural do ser humano: excluir o que é diferente
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: QUE OPINIÕES À BOT                                          
+SUBJECT: Estereótipos de beleza
+RESPONSE: 0
+
+TEXT: Exatamente
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: sim
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: pois entao deviam lavar a boca la
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: quem? perguntou
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: O TODO NAO PODE SER DEFINIDO PELAS PARTES (oops, esqueci me do caps lock)
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: sim e muitooo0o
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Totalmente de acordo 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: falam de direitos iguais para umas coisas mas noutras....
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: tamos nices
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: eu penso que inependentemente da educaç
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: é tudo uma questão de exposiç exposição
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: CHEIRA MAL
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: bastante
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Eu não sou nenhum animal.                                              
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: faca mais perguntas já 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: true
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Mentirq
+SUBJECT: Racismo e discriminação
+RESPONSE: 0
+
+TEXT: Infelizmente, ou felizmente, não creio conseguir imaginar alguém que sem duvida me remeta a um argentino 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Não, visto que as ideias incutidas em nós derivam dos ensinamentos das pessoas que nos rodeiam, o que se irá refletir nas nossas atitudes e opiniões relativas às aparências dos nossos semelhantes. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Igual  ;(
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Bom dia.
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT:  muda da agua pro Whisky
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: É por isso que somos animais racionais
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: Conviver todos juntos com as mesmas igualdades. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Pois
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: ola sou um jovem nacionbal socialista
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: sentem*
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Pois nao tem como isto parar de um dia para o outro
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: concordo
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: o video é interessante 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: verdade 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: em todo o mundo há racismo 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: diferente
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: CANALHA
+SUBJECT: Racismo e discriminação
+RESPONSE: 0
+
+TEXT: Concordo plenamente contigo parceiro 
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: de nada
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Eu acho que o preconceito é um "assunto" que para mim , a pessoas que  respeitam e á pessoas que tem preconceito.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Estereótipo são opiniões e ideias generalizadas, utilizadas pelas pessoas para pré-definir alguém ou algo quanto ao seu comportamento, gênero, aparência, religião, cultura, condição social, etc.
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: cabe a cada um respeitar ou ter preconceito
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: sou BR eu sou tratado com preconceito como eu fico nisso 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: em relação ao preconceito , pode ter influencia da cultura, dos amigos..... Embora tem que ser cada um a "saber " se tem preconceito ou não , mas há quem pense que não tem preconceito mas acaba por ter. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Tem várias formas de analisar o preconceito
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: á quem saiba e "admita"o preconceito e quem não tenha noção do seu preconceito
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Hoje em dia sim á muito preconceito e á quem diga que é tudo frescura 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: O racismo e uma atitude, Universal 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: O racismo é uma atitude de cada pessoa nao tem nada a ver com o povo etc
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: o racismo hoje em dia existe em todo o lado
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Isso e mesmo..... Os preconceitos e etc levam a uma pessoa a soicidar 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: infelizmente a casos de depressão, ansiedade, pessoas a suicidar-se ..... por causa do racismo etc  
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Racismo existe em todo o lado, e em portugal não é difrente claro..
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Exato as pessoas falam como se nós tivessemos culpa de ter nascido com a cor de pele que temos ou com a religião....
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Uma rapariga, não pode namorar com um rapaz negro, namorar com outra rapariga, com uma pessoa com deficiência ..... que já é " arrumada " para " canto ".
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: O Estereótipo é um conceito, ideia ou modelo de imagem atribuída às pessoas ou grupos sociais, muitas vezes de maneira preconceituosa e sem fundamentação teórica.Em resumo, os estereótipos são impressões, pré-conceitos e “rótulos” criados de maneira generalizada e simplificada 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Mas nós somos perfeitos, sejamos "brancos, amarelos, pretos" tal como somos temos que evitar (n ligar os comentários) mas se ligarmos aos preconceitos, e ao racismo, e etc, nós nunca vamos saber andar para a frente, por mais que age preconceitos, t temos que seguir em frente 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Acho que " as pessoas com mais preconceito" em varios aspectos , são os mais velhos mas o racismo costuma ser mais comum nas escolas ou no trabalho, poderiamos nós alunos falar muito mais sobre isso nas escolas e tentar levar a mensagem para casa 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: A minha conclusão é que há muito racismo nas escolas  I já tocou para o intervalo
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Se sofres de racismo, tuu tens que seguir em frente e n ligar aos comentários, e seres Feliz cm vc é!!
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Eu concordo que é de natureza humana. O ser humano criou o conceito de preconceito e de racismo No entanto, à certas pessoas que tem atitudes mais acentuadas e comportamentos ofensivos
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: i mean alguns preconceitos sao baseados em cenas reais
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Os estereótipos e preconceitos não são típicos da natureza humana são de certas pessoas e têm a ver com o caracter das pessoas e com as suas opiniões.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: epah e natural do ser humano criticar o que ele nao gosta por exemplo etnias diferentes tendem a criticar se umas as outras apenas pelo facto de serem parcialmente differentes
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Segundo o meu ponto de vista, não, os estereótipos e preconceitos não fazem parte da natureza humana. O que faz parte da natureza humana é ter certas preferências e repudiações. Alguns de nós, por certos motivos, podem não mostrar agrado face aos diferentes grupos sociais
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Acredito que o preconceito e um mecanismo de sobrevivência de todos os mamíferos. No entanto, o ser humano é um mamífero racional que poderia ser capaz de reconhecer que os seres humanos precisam de trabalhar em união e as suas características físicas não definem os seus valores 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Há pessoas que possuem tanto ódio de certos indivíduos, que os desrespeitam e excluem da sociedade. A bem ou a mal
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: o racismo provem de cada pessoa 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: e meio que ja ta tao normalizado na sociedade que msm nos sem querer somos as vezes racistas
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: No meu ponto de vista o racismo é uma atitude universal
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: em todo o mundo à racismo e as gerações futuras são responsáveis por erradicar este problema
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Acredito que a interculturalidade é algo natural e que naturalmente tem acontecido na história da humanidade
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Não devemos encaixar as pessoas em grupos de acordo com as suas características pois as pessoas precisam de conviver uns com os outros para tentar reduzir as "diferenças" entre nós 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: acho que uma pessoa no seu estado mental decente nunca irá proporcionar a uma pessoa algo tão mau como o racismo, sendo que ela já passou por tal
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: se tiver influenci de um pai racista e normal ele tmb ser racista
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: se desde criança foste educada a ser racista para ti isso é correto mas claro que tu proprio como pessoa independente tens a o direito e a capacidade de mudar a forma como pensas 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Depende, há pessoas que têm capacidades suficientes de construir as suas próprias ideias sem ser influenciada por membros familiares
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: E sempre haverá. Tu não podes imaginar um mundo sem descriminação
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: O ser humano tem o instinto de não gostar de algo quando lhe é diferente, mas tal não significa que devemos desrespeitar tais individuos
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Cada pessoa tem o direito de ter  sua própria cultura e valores e crenças pessoais, isso faz parte dos direitos humanos.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: vai sempre haver uma alminha da idade da pedra que acha que é superior a alguem que seja diferente dele 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: se todos tentarmos acabar com o racismo chegamos la com calminha 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: acho que a unica maneira de acabar com os preconceitos era com o fim da humanidade
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: A razão é haver a pressão social para um determinado estereótipo de beleza. A sociedade "obriga" a um determinado padrão e se tu não o segues terás muita dificuldade de seres incluído no grupo dos eleitos.
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: A meu ver a beleza é algo que não pode ser definido, pois é subjetivo. O que para mim é belo para outra pessoa pode ser feio.
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: A sociedade inventou o chamado "padrão de beleza" e, devido a isso, as pessoas começaram a tentar "encaixar-se" nesse padrão
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: A identidade não se exprime através da massificação, mas através da dimensão única e exclusiva de sermos quem somos e como somos. Se sentimos a necessidade de sermos iguais para sermos aceites, a beleza vai ser um dos aspetos a moldar para cumprir esse padrão. 
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: O padrão de beleza passa por padrões culturais, que enformam uma maneira de encarar o belo.
+SUBJECT: Estereótipos de beleza
+RESPONSE: '0'
+
+TEXT: Diferente culturas têm diferentes maneiras de ver o mundo. O que para a tribo africana pode ser a coisa mais bela, no Japão pode ser a maior atrocidade. O que realmente importa não é concordar com todas as opiniões, mas respeitar todas as opiniões.
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: O que eu considero belo é principalmente a personalidade da pessoa mas o corpo também é um bom bónus.
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Para mim a beleza é sinónimo de variações interculturais, isso é relativo à nossa cultura e sociedade que estamos inseridos. Por isso definir o que é belo para mim ao nível de algo que foi criado ou construido pelo ser humano, vai além da minha capacidade.
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Para mim, o belo é o inexplicável. É o olhar e apaixonar sem pensar em desprezar. O consenso em relação ao belo pode não existir, mas, nem sempre é uma coisa má. A beleza do belo é ver como diferentes pessoas o apreciam.-
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Não, as pessoas não deviam se ajustar à sociedade pois elas deviam apenas se preocupar com elas mesmas e ser felizes
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Não, já que se vivemos num mundo cada vez mais globalizado, a aceitação dos diferentes padrões de beleza é essencial para promover o respeito e a tolerância.
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: NÃO!! O que define um padrão de beleza? Porque é necessário padrões de beleza para encontra emprego e formar uma família? O conceito de beleza vai muito além do que nós vemos... Beleza é a pessoa, não o corpo. Devemos olhar para o interior antes de julgar pelo exterior. 
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: A minha auto-imagem pode ser importante para determinar aspetos da minha saúde física e mental e a beleza é um aspeto importante nesse âmbito. Por vezes, a busca do belo pode sacrificar o bem-estar e tornar-se algo tóxico.
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Quando vemos algo que no nosso entendimento é belo, isso desperta a produção de substancias ligadas à felicidade e ao prazer no nosso cérebro. isto tem um grande impacto na nossa saúde mental. Para o nosso corpo estar bem a nossa mente tem de estar bem "Mente sã em corpo são".
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Os padrões de beleza ligam se a saúde por causa dos corpos "perfeitos", e a saúde mental a uma personalidade mais forte e isso significa que a pessoa é mais segura de si
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Cada pessoa decide o que é belo para si mesmo
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Quem determina o que é belo somos nós mesmos e temos de ser nós a escolher o que é belo para nós
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: A nossa sociedade tem um grande impacto no nosso entendimento pelo belo mas cada pessoa tem o direito de decidir a sua definição de belo.
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Quem determina o belo é quem deseja o apreciar... Qualquer um pode apreciar e determinar o belo se assim o desejar. 
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: No geral dizem que nao existe mas existe um padrao de beleza 
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Sim existe um padrao de beleza, pois se fores gorda tens que comer menos, se es magra tens que comer mais, ninguem é realmente aceite pelos padroes de hoje em dia 
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Cada um tem a sua beleza à sua maneira 
+SUBJECT: Estereótipos de beleza
+RESPONSE: '0'
+
+TEXT: se mantivermos uma alimentação e um estilo de vida saúdavel, iremos naturalmente, ser mais bonitos
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Cada um tem a sua beleza à sua maneira toda a gente tem diferenças e cada uma delas são as que importam, a sua etnia a sua cultura e a sua maneira de ser 
+SUBJECT: Estereótipos de beleza
+RESPONSE: '0'
+
+TEXT: tdos temos a nossa beleza e isso tem que ser respeitado
+SUBJECT: Estereótipos de beleza
+RESPONSE: '0'
+
+TEXT: Mesmo que não seja beleza exterior também existe a beleza interior. Mas nos dias de hoje cada vez mais é valorizado a sua beleza exterior se é mais cheinha, se é loira ou então alta ou baixa
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: concordo, as pessoas com base naquilo que veem, formulam opinião acerca de uma pessoa sem sequer conhecê-la. 
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: no mundo e em todo o lado existem diferentes padrões, em certos lugares as pessoas mais gordas sao deusas, e em outros ser magra por completo é que faz parte dos padroes de beleza, para cada um de nos existem diferentes padroes aquilo que eu acho bonito nao é o mesmo que outro... colega meu possa achar, todos nos temos diferentes pensamentos e temos diferentes opinioes sobre padroes de beleza 
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Eu acho que a palavra  belo depende dos critérios de cada um, porque pode não se referir a beleza exterior mas sim a pessoa e a forma como ela é
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: descordo completamente. o aspeto nao devia interferir com questões profissionais ou sociais
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Cada um é como é. Seguir um certo estériotipo porque a sociedade espera que sejamos todos iguais é, na minha opinião algo muito errado. Devemos sempre seguir os nossos ideais e devemos ser leais a nossa maneira de ser 
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: as pessoas preferem focar se no aspeto e não no desempenho de certas pessoas em termos de empregabilidade
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: caracteristicas como a beleza nao sao discutiveis pois vai da opiniao de cada um
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: A beleza é subjetiva e pronto. O importante é não desprezar ou inferiorizar ninguém mesmo que essa pessoa não vá ao encontra dos nossos próprios padrões de beleza, visto que ninguém tem que o fazer.
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Cada um é bonito à sua maneira. Não existem critérios para responder se algo ou alguém é bonito
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: existe sim uma relação entre o nosso aspeto físico e a nossa saúde mental, querendo ou não isso afeta a nossa confiança e a maneira como falamos e agimos quando estamos com outras pessoas.
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: a beleza esta muito relacionada com a beleza quer queiramos ou não. Por exemplo a nivel físico, pessoas desenvolvem disturbios alimentares para encaixar nos padrões de beleza impostos pela sociedade! alem de que muitas delas chegam a fazer cirugias esteticas para esse próposito
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: esta muito enganado, eu posso ser a pessoa mais feia do planeta que isso nao me impede de ter uma boa saude mental
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Concordo não podemos e devemos depender da opinião dos outros para percebemos se somos belos ou não, pois assim nunca seremos felizes e nunca nos vamos sentir aceites por uma sociedade tão crítica como a nossa
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: A beleza é algo superficial, o que pode ser bonito para uns pode não ser para outros. Estes aspetos não se interligam de qualquer maneira, não é por alguem te considerar bonito que tens uma vida saudavel 
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Na minha perspetiva, enquanto somos crianças não vivemos com a preocupação de tentarmos ser aceites pela sociedade. Somos seres ingénuos e com a ideia de que somos bonitos. Até crescermos e verificarmos que a sociedade no impõe e pressiona com o suposto correto: 
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Ou seja, começamos a ser comparados uns com os outros e esperamos ser todos iguais 
+SUBJECT: Estereótipos de beleza
+RESPONSE: '0'
+
+TEXT: ninguem determina o que e belo pois a defeniçao de belo nao existe fudamentada vai de pessoa para pessoa
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: geralmente quem determina belo é uma pessoa que acaba por expressar a sua opinião a um grupo de pessoas que poderão concordar ou não com o conceito de belo de outra pessoa
+SUBJECT: Estereótipos de beleza
+RESPONSE: '0'
+
+TEXT: está sempre relativo à maneira como cada pessoa se vê a si própria e à forma como isso a afeta. Se alguém não se sentir bem com a própria aparência é natural que tenha tendência a se sentir em baixo, o que pode afetar a sua saúde mental. Isso pode levar a que a pessoa aja de form
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Cada um deve definir o que é belo para si e não para os outros visto que somos todos diferentes e com opiniões e gostos muito diversificados
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Penso quer a beleza é algo diferente de cultura para cultura. Uma pessoa só não define o que é beleza mas uma sociedade sim, por isso em diferentes países uma pessoa pode ser considerada bonita ou não.
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: exatamente! não somos todos iguais nem temos todos os mesmos gostos ou preferencias 
+SUBJECT: Estereótipos de beleza
+RESPONSE: '0'
+
+TEXT: Ninguém determina o que é belo. Cada um tem as suas opiniões e gostos e isso não se pode discutir. O que, para mim, pode ser muito bonito para outra pessoa pode não ser. No entanto, temos que aceitar que a beleza está em tudo e em todos. O que acontece é podermos não nos 
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: BELO  e como perfeiçao, nao da para defenir 
+SUBJECT: Estereótipos de beleza
+RESPONSE: '0'
+
+TEXT: O significado de beleza é  diferente para cada um, mas o problema da nossa sociedade é que muitos acabam por ir atrás dos outros porque não querem ser julgados, fazendo assim com consequentemente haja uma definição de beleza, mesmo que seja impossível de isso acontecer
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Por outro lado, somos seres críticos e isso faz com que, muitas vezes, não consigamos ver o lado bonito do outro. Colocamos defeitos e julgamos, injustamente. 
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Dá para definir perfeição e dá para definir beleza. No entanto, a definição de beleza nunca será unânime e variará de acordo com o contexto social, cronológico e opiniões de cada pessoa.
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: creio que há consenso. todos concordam que beleza é um conceito subjetivo, que apesar de ter influencias objetivas caba por ser uma coisa nossa e não de mais ninguem pq n somos tds iguais
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Na minha opinião a beleza é algo indefinível, cada um tem a sua própria opinião do que é belo ou não e não se deve deixar influenciar só porque tem medo de ser criticado por dar a sua propria opiniao
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: A beleza é uma questão de liberdade. Cada um tem as suas opiniões e vê com os seus olhos. A perspetiva de beleza vai estar sempre em constante mudança até porque estamos a evoluir e podemos verificar que, aom longo do tempo, pensamos de maneiras muito diferentes 
+SUBJECT: Estereótipos de beleza
+RESPONSE: '1'
+
+TEXT: Não concordo. Podemos tomar como exemplo um bebé, este nascem sem ideias formadas e sem preconceitos, estas opiniões negativas são lhe inseridas pelas pelas pessoas que as educam. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Os estereótipos e preconceitos fazem parte das culturas de certas populações, pois essas são muitas vezes incutidas pelos pais, familiares e amigos que as partilham.  
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Não, estereotipos e preconceitos nascem de culturas e pessoas, pois uma criança n
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Estereótipos são uma maneira rápida de classificar as pessoas apesar de parecer um bocado discriminatório e ofensivo.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Não.Os estereótipos são nos incutidos a partir da educação. Se desde crianças, os nossos educadores não mostram que existem pessoas com aparências, ideias ou cores diferentes, não vamos estar habituados a essa realidade, o que pode fazer com que achem que ser diferente é errado. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Não, estereotipos e preconceitos nascem de culturas e pessoas, pois uma criança não goza imediatamente com pessoas chinesas, por exemplo, e só o faz quando vê que os outros o fizeram primeiro, e acharam engraçado
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Sim há uma característica comum a todos, todos somos feitos da mesma forma e temos os mesmo direitos não ligando a cor, etnia, religião, costumes ou até orientação sexual
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: As crianças por si, sem preconceito algum, tem a curiosidade de tentar perceber o porquê de alguém ser diferente delas.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: MUITA GENTE leva preconceitos como brincadeiras
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: A partir do momento que tens uma grande confiança com uma certa pessoa os preconceitos tornam se motivo de gozo
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: O vídeo fala-nos em PESSOAS, não especifica a raça ou aparência. Podemos ter princípios/ideias diferentes, o que não nos torna diferentes como um todo, somos todos seres humanos 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: As crianças quando nascem são seres bons e inocentes , contudo devido a influencias externas as ideias vão-se alterando e contribuindo para a criação/manutenção dos preconceitos 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: simo homemnasce naturalmente bom e muda com as suas experiencias e vivencias no mundo 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Sim, os teus ideias mudam com as tuas vivências, percepções do mundoe pessoas com quem contactas
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: O racismo é uma atitude discriminatória proveniente, que varia dependendo de cada população e das suas ideias.
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Podemos questionar a cultura portanto o racismo pode nao vir da cultura
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Se fosse tipica de uma raça/cultura, toda a gente teria que o praticar, que não é o caso, por eu ter um familiar racista não significa que vou necessariamente se também, posso ter a minha própria opinião.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: O racismo aplica-se a todos nós independente da nossa raça, do local de nascimento ou das ideias que seguimos, uma vez que como seres humanos todos somos afetados por tais atitudes perconceituosas. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: O racismo não é universal, pois nem todos pensamos da mesma forma e nem da mesma maneira. Agora lá está, em criança somos muitas vezes influenciados pelas opiniões das pessoas ao nosso redor e consequentemente seguimo la sem nos questionarmos
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Pessoas têm o direito a ter opiniões diferentes. O que não justifica o facto de passares a criticar um outro "diferente" de ti, o que faz de ti racista, ou um seguidor de esteróticpos 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: A criação de estereotipos e preconceitos vai reduzir toda a diversidade que essa raça ou cultura tem a essa pequena ideia. Por exemplo os ciganos serem ladrões
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: A personalidade de uma pessoa não é definida puramente pela sua raça ou cultura
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Nos devemos tentar acolher as pessoas da mesma maneira seja ela diferente de nós., ou seja, com uma cultura diferente ou cor, todos somos iguais, todos temos os mesmo direitos e devíamos nos encaixar nos grupos em que nos sentimos melhor e aceites 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Apesar de todos sermos diferentes fisicamente, ao fim ao cabo somos todos iguais e todos temos os meus sentimentos. Assim o encaixar as pessoas em grupo não necessita ser preconceituoso.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Encaixar pessoas em grupos é preconceituoso pois não existem duas pessoas iguais. Sim, cada um é definido pelo ambiente que os rodeia, mas isso não vai ser o único fator que define tal pessoa
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: O agrupar as pessoas em grupos não significa que não possam conviver todos juntos. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Ao encaixar-mos as pessoas com as suas características, estaremos a apelar para o racismo
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Dizer que todos os ciganos são ladrões é errado, pois eu conheço muitos ciganos que são boas pessoas!
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Estmos numa sociedade multicultural e por isso devíamos nos aceitar cada um como é, e não excluir com base  no aspeto físico ou psicológico
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Ao encaixarmos pessoas em grupos de acordo com as suas características, estamos a estereotipar grupos de pessoas inutilmente. Como é dito no vídeo, somos PESSOAS, o que não merece uma divisão em grupos, já que pertencemos todos a um mesmo, o dos "seres humanos" .
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Todos nós somos iguais na diferença, por isso temos de tentar incluir pessoas que queiram ser incluídas.E por isso RESPEITAR A DIFERENÇA. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Sim, é inegável a existência de um género de racismo em portugal
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Já houve múltiplas noticias , de pessoas a serem fisicamente agredidas devido á sua cor de pele, especialmente no interiro do país
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Os sentimentos influenciam a maneira com vemos os outros devido às experiências. Se tu sentes raiva ou um sentimento negativo relativamente a alguém somente por ser diferente, já estás a colocar as pessoas em grupos estereotipados.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Podemos tomar como exemplo o ato de Bragança que mataram um jovem só porque era de uma raça diferente.  Não podemos negar as diferenças físicas das outras pessoas, mas sim aceita las e viver normalmente. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Pessoas negras são mortas por pessoas brancas! 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Em Portugal tal como em todo o mundo o racismo é um dos grandes problemas da sociedade que vivemos. Em específico no nosso país são alvos de racismo a raça cigana muitas vezes criticada por diversos politicas como é o caso mais recente o político do partido CHEGA.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Sim, Portugal continua a ser uma sociedade pouca desenvolvida em termos psicogicos, como por exemplo as pessoas com orientações sexual diferente do "normal". Também podemos ver na etnia como por exemplo os búlgaro/ ciganos, o que já não devia acontecer 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Existe sempre um nr.º de pessoas que têm esses tipos de ideais racistas. O que não depende da localização geográfica, no caso Portugal. Todos os países terão sempre um alguém racista 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: É inevitável a existência de grupos pois haverá sempre  diferenças entre as diversas pessoas, que faz com que hajam diferentes perspectivas e ideais.Nós devemos é aceitar e ter uma atitude de inclusiva    
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: As mentes de pessoas racistas continuam imprevisíveis. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Estereotipos reduzem uma raça ou cultura a essa pequena ideia, reduzindo qualquer diversidade mais relevante que elas tenham. Um exemplo disto é dizer que os pretos são ladrões
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: O estereótipos são um mecanismo redutor, tentar encaixar uma pessoa numa ideia pré-concebida que temos sobre a raça dela é completamente errada 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Estereotipos são inúteis, a aparência de alguém não nos nos apresenta a sua personalidade, pessoas com aparências parecidas, podem ser muito diferentes. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Definir as pessoas é algo que fazemos subconscientemente de acordo com as ideias em nós incutidas desde pequeno que são o principal motivo de preconceito ser um dos maiores problemas da sociedade moderna.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Fazemos piadas sobre o racismo e ser racista porem em assuntos sérios entendemos o que nao seria certo de dizer como algo racista.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Nunca é fácil definir uma pessoa, pois a nossa frente pode ser uma pessoa totalmente diferente de por trás, uma vez que faz esse tipo de comportamento  para fazer parte de um determinado grupo 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: A nossa utopia seria toda a gente ser tratada igualmente, independentemente da sua raça ou diferenças
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Não devemos ser racistas ou estereotipar pessoas, já que apesar de pertencermos todos a um mesmo grupo (seres humanos), acabamos por ser todos diferentes e únicos, devemos-nos respeitar mutuamente.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Não devemos ser racistas ou estereotipar pessoas, já que apesar de pertencermos todos a um mesmo grupo (seres humanos), acabamos por ser todos diferentes e únicos, devemos-nos respeitar mutuamente.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Chegamos à conclusão que o racismo é nos incutido, mas ao fim ao cabo acabamos todos por ter alguns preconceitos (mesmo que não sejam muitos). 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: A sociedade atual embora esteja repleta de problemas sociais, económicos e políticos como é o caso famoso da guerra (Ucrânia-Rússia) estamos a evoluir no sentido correto, uma vez que com o passar das gerações as pessoas passaram a ser menos preconceituosas.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Prospera mos para um sociedade evoluída e organizada onde tudo é justo onde atitudes como o racismo sao intoleráveis 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Hoje em dia devemos sensibilizar as pessoas para maior pensamento inclusivo, ver o próximo como um possível amigo e não como um estereotipo. Por isso, devemos lutar por uma sociedade melhor.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Sim, concordo em nos ser incutidos, no entanto não temos preconceitos, mas sim estereótipos, o que não justifica agrupar pessoas por isso
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Uma pessoa racista nao tende a mudar de um dia para o outro e mesmo se mudar nao sera completamente 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Em suma podemos chegar à conclusão que a nossa sociedade é muito baseada nas aparências não levando em conta as características psicológicas dos outros à nossa volta. Para chegarmos a um consenso devemos parar de julgar os outros e tentar conhecê-los antes de os agrupar-mos.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: acho que o preconceito faz parte da própria pessoa e da sua educação
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: os esteiótipos não são natureza hu8mana mas dependem da educação que cada pessoa tem ao longo da vida
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: penso que os estereótipos fazem parte das pessoas e da sua educação, cada pessoa cria os seus esteriotipod
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: A meu ver os esteriótipos e preconceitos fazem parte da natureza humana, mas não de uma cultura em geral. É inevitável criar-mos uma ideia da população de um país, por exemplo, pelo que nós ouvimos. De certa forma isso é um preconceito 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: O preconceito não é adquirido à nascença, é transmitido pelos pais. Mesmo assim, apesar da educação dada, as pessoas têm a capacidade de evoluir como toda a gente, e ganhar morais corretos, de forma a respeitar as pessoas. A educação não é uma desculpa para a discriminação.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: éinevitável termos uma ideia preconcebida de algumas pessoas mas não significa que essa ideia seja a certa daí termos de combate la e evitar ter perconceito
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Para mim, os esteriotipos e os preconceitos, servem para nos ensinar, não devemos criar falsas ilusões e falsas perspectivas acerca de diferentes culturas, so por serem diferente da nossa, não devemos descriminar os outros por serem diferentes, devemos respeitar todos 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: O preconceito é algo inevitável, todos nós temos ideias pré-conbebidas que não podemos ignorar 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Acho que é inevitável criar uma primeira imagem e impressão de algo quando o vemos pela primeira vez. No entanto, essa ideia pode ser alterada se nos esforçamos para ver a realidade e não a ideia que criámos.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Também falam da educação que a pessoa tem, mas não nos podemos esquecer que isso tambem depende se a pessoa decide agir como lhe ensinam. Não podemos dizer que a culpa de um criminoso ser como é, é dos pais 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: O perconceito é algo incorreto na sociedade, não devemos desrespeitar os outros só por terem caracteristicas diferentes das nossas
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Claro que a nossa ideia inicial pode estar errada, daí a termos de muda-la. Mas eu considero inevitável criar uma ideia inicial de algo
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Exato, cada um deve ser capaz de entender o que é certo e o que é errado. Mas muitas vezes as pessoas são levadas pelas opiniões das pessoas que as rodeam e acabam por não pensar por si próprias
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: É universal. Existe pessoas racistas em todos os povos
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: O preconceito é algo que, de certa forma, está enraizado na nossa Sociedade, então é muito difícil escapá-lo. No entanto, podemos lutar contra ele. Todos temos a nossa visão das coisas, que com o tempo, pode ser mudada e melhorada.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: eu acho qu podemos distinguir as pessoas de acordo com a sua etnia, mas não podemos crar grupos que se baseiem na sua superioridade relativa, porque esse não é um critério válido para "divisão" da populaç
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: O racismo é uma atitude universal, a maior parte das pessoas não respeita o diferente,  levando a que o racismo atinja um nivel muito elevado por todo o mundo 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: O racismo é uma atitude universal, o racismo existe um pouco por todo o mundo, embora haja locais ou países com maior intensidade
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: acho que temos de ter em conta os costumes de cada cultura, por respeito, mas em termos de características fisicas ( entre outras) não podemos admitir que um certo grupo é superior que outro, não podemos sequer assumir "grupos"
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: não podemos dividir a sociedade em grupos superiores ou inferiores ou que tem mais ou menos direito a certas coisas mas acho que a nossa sociedade está dividida em grupos
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Podemos distinguir e verificar  diferenças entre as pessoas com base nas suas características mas não podemos diferencia-las e tratá-las de diferentes maneiras por causa disso 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: exatamente, não só é errado considerar alguém ou um grupo de pessoas como inferior ainda é pior os por de parte por causa da nossa opinião
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: não podemos dividir as pessoas em grupos e muito menos tratá-las de maneira diferente
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Não devemos criar grupos na sociedade, devemos incluir toda a população no mesmo grupo independentemente da sua cultura, cor da pele, seja o que for, devemos ser pessoas civilizadas respeitando as diferenças uns dos outros 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: As pessoas devem estar todas em pé de igualdade. Cada um tem características que os define, mas não significam que são inferiores ou superiores aos outros. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Como dizia o video, pessoas são pessoas, e não devem ser julgadas ou criticadas por serem «diferentes»
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Exatamente, se fôssemos todos iguais não existiria evolução. Pessoas  diferentes, com características diferentes, levam a ideias diferentes, que implicam uma discussão e à chegada de um consenso.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: sim é verdade ao aprender como pessoas diferentes agem/comportam-se também aprendemos muito sobre o mundo que nos rodeia, ao aceitar as diferenças é um meio caminho andado para a evolução humana
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Acho que existe racismo em todo o lado. Existem pessoas que se consideram superiores às outras. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: sim, alias acho que ha muito racismo interiorizado 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Os grupos nao se criaram por intencao propria, foram originados a partir da exclusao por parte de uma maioria, como por exemplo a supremacia branca, a heteronormatividade e o machismo. Os grupos foram originados à forca, de modo a que as pessoas discriminadas tivessem um suporte
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: exato, muitas das pessoas não conseguem ter uma mente aberta a novos conceitos
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Por possuírem características diferentes, é normal serem divididas em "grupos", mas esses grupos estão (ou deveriam estar) em pé de igualdade, ou seja, devem ter sempre os mesmos direitos e deveres. Nunca se deve julgar alguém por ser diferente. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Acho que são precisamente os estereótipos que levam ao preconceito. E às vezes as pessoas não conseguem modificar essa ideia pre-concebida
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: exato no momento em que a liberdade de uma pessoa diretamente tira a liberdade de outra ou infringe a liberdade de outra deixa de ser correto e já não é liberdade que se trata
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: acho que os esteriotipos nao nos ajudam a desenvolver como sociedade como é obvio poios os esteriotipos sao ideias que temos não significa que sejam corretas ou atuais ou seja nao aprendemos nada com elas
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: esteriotipos são ideias pre-concebidas que não deveriam existir.... nenhuma pessoa é perfeita como criado nesses esteriotipos, todos temos uma mente diferente, uma maneira de pensar diferente, personalidades diferentes. é isto que enriquece a nossa população
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: estes esteriótipos ajudam a perceber como a raça humana é cruel para consigo mesma, tentando degradar o seu próprio património cultural por mão aceitar a diferença
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Acho que é a partir de esteriótipos que existe o perconceito
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: não. Cada pessoa tem as suas próproias vivencias  experiencias e por isso é muito complicado defini-las sem conhecer tudo aquilo por que passaram
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: pessoas não devem ser baseadas em definições, todos somos diferentes, mesmo em contexto de turma
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Definir as pessoas é muito mais complexo do que parece, somos todos muito diferentes entre si e a única pessoa que nos devia defenir somos nós próprios, não os outros. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: as pessoas têm as suas melhores características, logo conseguem diferenciar-se das outras, por isso podes defini-las/descrevê-las
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: devemos evoluir para uma sociedade aberta a novos coneitos, uma sociedade que não receie o «diferente«
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Acho que devemos tentar ao máximo abolir as ideias pre-concebidas, evintando o racismo
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: O problema e que pessoas costumam definir outras por "diferencas" que para essa pessoa sao erradamente obvias, como cor da pele, secualidade, genero. Quando se caracteriza alguem nunca se devia apontar essas características, mas sim caracteriza la como fariamos com uma 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: a melhor forma de evoluir ´+e manter a mente aberta e não nos preocuparmos apenas connosco mas com os outros tambem
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: acho que as novas gerações são educadas tendo em conta novos ideais, e por misso têm mais conscuiencia das suas ações e do impacto que elas vão ter no mundo e nos outros, não nos deixado levar tanto por argumentos racistas e baseaos em preconceitos
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Eu não diria dessa forma, não ha necessidade de descartar de imediato as ideias pre-concebidas. O importante é sermos flexíveis, de modo a mudarmos a nossa opinião se isso for necessário 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: devemos evoluir para uma sociedade sem esteriotipos pois são eles que levam à diferença e às tragédias
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Devemos evoluir a sociedade, mostrando sermos pessoas civilizadas e respeitando toda a gente 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: As novas geracoes nao sao assim tao diferentes das anteriores. Para pessoas favorecidas pelas suas caracteristicas numa sociedade, a discriminacao a um grupo pode parecer que esta a melhorar ao longo dos anos. Isto nao e verdade, nao esta assim tao diferente, apenas nao 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: a diferença é o que nos torna únicos, o errado é o crime de ódio que dela se gera sem motivo, levando sim à tragédia
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Acho que não ha necessidade de sermos tão radicais. Não temos de eliminar os estereótipos, temos é de ter uma mente aberta a novas ideias e respeitarmos as diferenças uns dos outros
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Para evoluir-mos tinha-mos de não julgar as outras pessoas, e agir todos para um bem comum. Mas como nada é perfeito duvido que alguma vez isso aconteça
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: mesmo sendo dificil nos ver livres de esteriótipos e ideias preconcebidas poderiamos deixar de os utilizar como base para as nossas opiniões sobre outros
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Exatamente, o problema é considerarmos esses preconceitos absolutamente corretos
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Nao nao sao, la por nao experimentares essa discriminacao, nao quer dizer que nao exista. Pede opiniao a pessoas que realmente sofrem com isso, nao tens direito a dar o teu ponto de vista sobre um fator que nao te abrange
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Eu diria que o preconceito esta, em grande medida, associado às culturas a volta das quais somos formados.  Não diria que há características intrínsecas ao individuo que o faz preconceituoso, mas o meio em que cresceu e que o rodeia.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Penso que os preconceitos e os estereótipos advém da ignorância e desconhecimento de certas pessoas. Os preconceitos nasce do desconhecido, e por vezes do medo do mesmo.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: discordo a partir do momento em que nasces tens a capacidade de fazer julgamos e criar pré-conceitos
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: concordo completamente! As crianças por exemplo não julgam ninguém pela cor ou pelo país de origem, apenas se tiverem sido educadas para tal 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Somos altamente influenciáveis (comprovado historicamente), e tudo, desde o nosso lar à sociedade que nos rodeia, nos influencia o modo de ve o mundo. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Concordo plenamente, a educação abre-nos os horizontes para combater ideias pré-concebidas, e erradas
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Não necessariamente. Como referi, somos altamente influenciados pelo exterior, pelo que, assim como podemos ser influenciados negativamente, podemos ser influenciados positivamente. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: somos tao faceis de influeciar, que estudos tem vindo a revelar que, apenas por um reduzido numero de horas online, podemos radicalizarmo nos
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: um bebe não tem quais quer ideias pré-concebidas, ele apenas ira replicar aquilo que os indivíduos à sua volta lhe educarem a fazer
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Penso que é universal, na medida em que a ignorância toca a todos de igual forma.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: pessoas de qualquer raça podem ser racistas, contudo em algumas raças é um preconceito mais acentuado/ um maior número de pessoas
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: não necessitas de estimulos extrinsecos, tu tens a capacidade inata de julgar
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: sim, racismo não discrimina, qualquer pessoa pode ser vitima de racismo
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: o racismo não é especifico de uma religião ou povo. O racismo é a ideia se superioridade racial em relação a outra. O racismo não é típico de X ou Y e seria , ao meu ver, até racista afirmar algo assim.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: ou seja, os preconceitos não estão na nossa natureza, estão dependentes daquilo que nos rodeia e vamos absorvendo
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: seres exposto a uma realidade diferente altera a tua forma de pensar
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: no fundo, somos todos homo sapiens sapiens que se adaptaram a meios diferentes, logo, somos todos, na essencia, iguais. nao deviamos por as pessoas em caixas coo se fossem lixo diferenciado, temos de honrar as diferentes culturas e celebrar a diversidade, mas não dividindo-nos
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: existirem diversos grupos não é um problema enquanto houver respeito entre eles. De facto, somos diferentes uns dos outros e não é algo que deva ser ignorado
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: ha nacionalidades e culturas diferentes, práticas que devemos celebrar, mas não agrupando-nos de forma a ver outro grupo como pior, porque somos entidades diferentes, somos de culturas diferentes, temos costumes difeenets, mas a nossa especie nao se altera
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: nós somos sim diferentes uns dos outros como indivíduos e não como espécie, o problema da separação é geração de intrigas e pre julgamentos errados pois são identificados como diferentes  
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: enquanto existir a ideia da identidade do povo desse lugar e do "outro" em relaç em relação a esse, ou o "estrangeiro", haverá preconceito. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: infelizmente, ainda não somos exceção. Diria que, principalmente nos mais velhos, o racismo ainda está muito presente no nosso país 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: um caso de racismo é o caso dos ciganos, por exemplo. podemos nao concordar com as suas praticas, mas temos de respeitar as outras pessoas
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: A identidade de um povo é uma ideia do século XIX que lentamente se vai degradando à medida do tempo, devido à globalização 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: concordo, a globalização e as migrações tem mudado bastante o ponto de vista das pessoas. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Esteriotipos pauperizam, de certo modo, as culturas. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: As culturas e costumes de um país são muito mais que esteriotipos. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Claro que há esteriotipos que nao sao maus. Não obstante, as culturas sao muito ricas e nao devem ser reduzidas a isso.
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Concordo, as culturas não devem ser reduzidas a X e Y já que estas são muito, mas mesmo muito, mais complexas
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: esterioti+po e preconceito são palavras falsamente envenenadas, na sua base nenhuma delas significa mal
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Não, definir uma pessoa é reduzi-la e simplifica-la o que é extremamente difícil de ser realizado
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: acho que todos fazemos uma ideia das pessoas antes de verdadeiramente as conhecermos, e depois, por vezes, erramos. por isso, diria que nao
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: nao conseguimos definir ninguem, porque somos todos muito mais do que os adjetivos que poderiamos arranjar
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: o problema das agressões sexuais não está na vítima, nunca...
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: A roupa n influencia as agressões sexuais 
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: Não, já foi comprovado que a cor ou tamanho das roupas não influencia os abusos sexuais.
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: eu creio que as agressões sexuais nunca podem ser culpa da forma de vesstir ou de agir da mulher, o homem é que toma esse ato e essa atitude repugnante. a mulher é livre e veste-se como quer e não devia ter que pensar no que pode acontecer quando pensa na roupa que tenciona usar
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: Ya, uma pessoa não vai violar só por causa das roupas
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: Não é bem assim, cada vez mais vimos casos de pessoas que quando usam roupas mais justas ou assim sou o principal alvo destes abusos
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: muitas vezes há pessoas, especialmente homens que dizem que uma mulher não deve ir assim para a rua pois está se a por a jeito... mas porque é que não nos podemos vestir como queremos? quem assedia é quem está mal e não quem é assediado 
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: a maneira de como alguém se veste não deve ser posta em causa em situação de violência ou maus tratos. Cada um veste se como quer e toda a gente tem o dever de respeitar isso sem julgar ou discriminar 
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: Claro que influencia, se tivermos um casal de cobaia, e se nesse casal o “marido” for controlador, então nesse caso se a mulher sair à rua com uma forma de vestir que o marido não aprova, nesse caso, e na maior parte das vezes neste mundo, esta ação pode ser punida com violência.
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: Se isso fosse realmente verdade, mulheres muçulmanas, que utilizam burcas, nao seriam agredidas sexualmente. 
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: exatamente, quem está mal é o violador e nunca a vítima! a vitima é livre de se vestir como quer! dentro dos parâmetros legislativos claro.
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: a culpa é do agressor e nunca da vitima
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: nao de todo! eu creio que me visto bem e de forma atraente para mim mesmo, pois nao me sinto confortável a vestir me banalmente sem brio pessoal nenhum! visto me para mim mesmo e nunca para provocar ou despertar a atenção sexual de alguém 
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: Nao existem, todos e quaisquer atos de violência contra alguém tem de ser punidos. Nao pode haver nunca alguma justificação para o que os agressores fazem
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: Não existem argumentos que justifiquem agressões. Existem crianças inocentes que são violadas no mundo todo, roupa provocante nao é uma fator que influencia a violência sexual.
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: Por algum motivo usar roupa curta não é crime e agredir sexualmente é!!
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: os homens tem que saber controlar o seu desejo sexual e ponto
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: Seria justo, não fosse o facto de sermos animais racionais com poder de distinguir o que é desrespeitar o outro e controlar os nossos instintos. 
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: Homem sabe sim controlar os seus desejos sexual 
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: O facto é que acontece muito mais com as mulheres, mas obviamente acontece ao contrário também. 
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '0'
+
+TEXT: É normal que nos foquemos mais no homem como agressor pois é a maioria, mas qualquer tipo de agressão sexual deve ser punido de igual forma!
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: Creio que devemos ser mais tolerantes e respeitar cada seja ele/ela usando roupas que não estão no nosso padrão.
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: Sim é que toda a gente tem o direito de se vestir de forma a que se sinta confortável 
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: Se fossemos tolerastes o suficiente não teríamos essa conversa pois é óbvio que cada um se veste de acordo com o que lhe faz bem, e que não seria um argumento de desculpa para pessoas fazerem o mal.
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: É desejável vestirmo-nos como queremos, apesar de, apesar de não vivermos condições extremas, é assustador para algumas pessoas vestirem-se como querem, por medo de julgamento, discriminação, violência, assédio, etc. 
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: não devemos assediar/ agredir alguém só pela forma que a pessoa se veste. se a pessoa se sente bem com aquela roupa, deixem lhe estar. 
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: as pessoas devem ter poder de escolha em relação ao que vestem mas tem de ter ao mesmo tempo noção que para as diferentes ocasiões há vestuários mais apropriados 
+SUBJECT: Julgar as pessoas pela forma de vestir
+RESPONSE: '1'
+
+TEXT: Na minha opinião, a vacinação completa não deve ser obrigatória, isto porque cada um tem o direito de escolher ser vacinado ou não. No que toca a doenças transmissíveis( as quais podem prejudicar alguém para além do não-vacinado), acho sim que a vacinação devia ser obrigatória.
+SUBJECT: Vacinação: Dever ou direito
+RESPONSE: '1'
+
+TEXT: No meu ponto de vista a vacinação deveria ser opcional, cada pessoa deveria poder fazer a sua escolha. Contudo, quando existe risco de contagio para as outras pessoas, dependendo da gravidade deveria ser obrigatória ou pelo menos haver restrições. Temos o exemplo do Covid 19 se t
+SUBJECT: Vacinação: Dever ou direito
+RESPONSE: '1'
+
+TEXT: Penso que a vacinação deva ser opcional, porque cada pessoa tem o direito de escolher o que quer ou não colocar dentro do seu corpo, e direito a seguir o tipo de medicina, tradicional, chinesa... tal como ideologias e estilos de vida estilo de vida que pretenda ter. #
+SUBJECT: Vacinação: Dever ou direito
+RESPONSE: '1'
+
+TEXT: Eu penso que a vacinação deveria sim ser obrigatória para determinadas doenças que prejudiquem as que estão à sua volta
+SUBJECT: Vacinação: Dever ou direito
+RESPONSE: '1'
+
+TEXT: As vacinas são (normalmente) testadas durante anos e anos e aplicadas a um certo numero de pessoas para que sejam o mais seguras e eficazes possível. Por isso, eu penso que essa preocupação deve ser colocada de lado.
+SUBJECT: Vacinação: Dever ou direito
+RESPONSE: '1'
+
+TEXT: Enquanto alguém for menor de idade, os pais deveriam ser os responsáveis pela vacinação dessa pessoa. Claro que, existindo casos de pais que não vacinam os seus filhos, o ponto que referi acima acerca das doenças contagiosas deve ser considerado.
+SUBJECT: Vacinação: Dever ou direito
+RESPONSE: '1'
+
+TEXT: Os efeitos secundários existem e por vezes podem deixar marcas graves nas pessoas. Contudo não é a toda a gente que isto acontece é a uma minoria.
+SUBJECT: Vacinação: Dever ou direito
+RESPONSE: '1'
+
+TEXT: Penso que devemos ter a liberdade de escolher se queremos ou não estar ativo no plano nacional de saúde com a exsção º~
+SUBJECT: Vacinação: Dever ou direito
+RESPONSE: '1'
+
+TEXT: Eu penso que a obrigatoriedade da vacinação deve ser praticada desde que não exista perigo e seja para o bem estar da comunidade.
+SUBJECT: Vacinação: Dever ou direito
+RESPONSE: '1'
+
+TEXT: *exceção de certas vacinas que devem ser obrigatórias para assegurar não apenas a nossa, como a segurança de quem nos rodeiam. "A nossa liberdade termina quando invadimos a liberdade do outro"
+SUBJECT: Vacinação: Dever ou direito
+RESPONSE: '1'
+
+TEXT: A opção que ganha penso que seja a da obrigatoriedade da vacinação já que esta é a melhor forma de promover a saúde geral da população.
+SUBJECT: Vacinação: Dever ou direito
+RESPONSE: '1'
+
+TEXT: a vacinação proposta pelo plano nacional de saúde deve ser obrigatória, pois essas são as vacinas consideradas suficientes para uma boa saúde coletiva
+SUBJECT: Vacinação: Dever ou direito
+RESPONSE: '1'
+
+TEXT: É obvio que não faz parte da natureza humana. Ninguém nasce racista…Quem é foi apenas influenciado pelas pessoas ao seu redor e, por isso, não sabe fazer melhor 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Um vídeo em que explica bem que somos todos diferentes
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: o racismo apenas existe porque algumas pessoas não aceitam a mudança, e também que alguns de nós são diferentes uns dos outros
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: O racismo é uma atitude que acontece várias vezes 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: A mentalidade das pessoas é o que torna as pessoas racistas, por isso diria que tem a haver com a "cultura". O racismo era muito prominente antigamente à volta do mundo. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Antigamente, as pessoas de raça negra eram consideradas lixo, escravas, inferiores à supremacia branca
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: racismo é uma atitude errada que é praticada por uma pessoa não dependendo da sua raça ou cultura
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: acho que hoje em dia a situação do racismo já está mais controlada, pelo menos em alguns países, já têm os mesmos direitos que os outros
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Eu acho q todos deviam evoluir um pouco porque todo o nosso sangue é vermelho somos todos iguais mesmo apesar da cor da raça e da lingua 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: O racismo é infelizmente uma atitude universal
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Tudo depende de pessoas para pessoas , os meus pais porém sempre me indicar para ser racista e menosprezar pessoas de um tom de pele diferente da minha mas eu tenho o livre-arbitrio de ser ou não racista
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: A luta contra o racismo ainda está longe de terminada. Progresso está a ser feito, claro, mas ainda falta muito para atingirmos ao ponto de termos um planeta sem racismo 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: As pessoas acham que alguns são diferentes só pela cor da pele e isso está errado 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Por vezes as pessoas só são racistas devido a influências que tem de outras pessoas como por exemplo as crianças que crescem a ver os pais a serem racistas e provavelmete essas mesmas crianças vão crescer a ser racistas 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Creio que nunca irá acabar como o video dizia pessoas são fantasticas e podem ser boa mas o ser humano pode e é muitas vezes muito cruel, acredito que o racismo va diminuindo ao longo dos anos como tem vindo a diminuir mas nunca a ter um fim
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: eu penso que assim como a mentalidade tem vindo a mudar ao longo dos anos no futuro  não haverá mais racismo 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: E o objetivo não é as outras raças sentirem ódio pelos brancos. O objetivo é paz. Aceitação de todos como somos. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Concordo… penso que o racismo, infelizmente, nunca vai ser apagado deste planeta, mas sim, poderá diminuir
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Apartir de o momento que somos pessoas diferentes e únicas vamos sempre divergir de pessoa x ou y eu posso ter uma opinião num tema e o meu colega do lado discordar toltamente
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: acho que o racismo é uma coisa que vamos ter de lidar a viver com.. pois nunca deixará de existir infelizmente 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: As pessoas não devem ser dividas pelas suas características pois nao faz qualquer sentido, são pessoas não objetos
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Eu acho que por exemplo nós quase que não vemos pessoas negras num grupo de brancos, por que se calhar sentem se mais seguros com pessoas com as mesmas caracteristicas que elas
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Concordo, mas não é assim tão simples o racismo do nada acabar pois alguém vai sempre tentar arranjar alguma forma de rebaixar o outro e vai o fazer usando o racismo 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Mais fácil dito do que feito, ainda há várias pessoas que não pretender "abrir a mente" e ficam coladas aos pensamentos da antiguidade. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: As ideias mais revelantes são 'lutar' para acabar com racismo e pode ser uma luta difícil 
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Sim o racismo acho que em todo o lado ainda está muito presente e ativo 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Existe, o "em portugal não ha racismo" é totalmente falso
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: O racismo esta espalhado pelo mundo 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Racismo ha em todo o lado 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: E pessoas más ha de todas as nacionalidades
+SUBJECT: Racismo e discriminação
+RESPONSE: '0'
+
+TEXT: Ainda existe, sim. Há casos de miúdos de "outras raças" agredidos por policiais só pelo facto de terem uma cor de pele diferentes ou por serem de outra cultura 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: os princípios de alguém não estão escritos na pedra e é possível serem mudados, mas demora tempo e dá muito trabalho 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: acho que is estereótipos são generalizações, aquilo que aparentamos ser nem sempre o somos, 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Estereótipos são... Esquesitos. Por um lado, pessoas do tipo A, B e C é desnecessário e podiam ser elas mesmas em vez de serem influenciadas por outros. Mas por outro lado, há pessoal cujas verdadeiras identidades revolvem à volta de serem estereótipicas... 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Deveriamos evoluir para uma sociedade sem racismo onde todos se aceitassem uns aos outros onde se respeitassem e se bem tratassem uma sociedade onde nao houvese exclusao
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: RACISMO É ERRADO
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Não acho que há alguma maneira de manifestar contra este argumento... É exatamente isto que Martin Luther King, Nelson Mandela, Barack Obama e outras figuras e entidades pretendiam... Um mundo pacífico, onde a palavra "exclusão" não tinha nenhum significado. 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: O racismo existe n podemos fazer nada para controlar a sua existência so o podemos diminuir 
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
+TEXT: Acho que nunca vamos ter um mundk sem racismo
+SUBJECT: Racismo e discriminação
+RESPONSE: '1'
+
