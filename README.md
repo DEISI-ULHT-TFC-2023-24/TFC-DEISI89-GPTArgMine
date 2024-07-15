@@ -30,30 +30,19 @@ In the Pilot Annotation phase, we selected 5 rooms, each one with different topi
 In this code, we used the implementation 'Fast Krippendoff' by Santiago Castro to to assess the reliability of the annotations. 
 - **GitHub Repository:** https://github.com/pln-fing-udelar/fast-krippendorff
 
-## Results
-We used two methodologies* to evaluate the reliability of our annotatiors and we achieved the following results: 
-### **Methodology 1**
-Krippendorff's **ɑ =~ 0.83**
-#### Confusion Matrix
-![Confusion Matrix Methodology 1](assets/matrix1.png)
-### **Methodology 2**
-Krippendorff's **ɑ =~ 0.77**
-#### Confusion Matrix
-![Confusion Matrix Methodology 1](assets/matrix2.png)
-
-*Both methodologies are described in detail in the project report.
-
 ## Dependencies
 
 Below is a list of dependencies required to run the project, as specified in the `requirements.txt` file:
 
 | Package        | Version |
 |----------------|---------|
-| scikit-learn   | 1.1.1   |
-| krippendorff   | 0.5.1   |
-| matplotlib     | 3.5.1   |
-| numpy          | 1.22.3  |
-| json5          | 0.9.8   |  
+| scikit-learn   | 1.1.3   |
+| krippendorff   | Latest  |
+| matplotlib     | 3.6.3   |
+| numpy          | 1.24.0  |
+| json5          | 0.9.8   | 
+| openai         | Latest  |  
+| pandas         | 1.5.3   | 
 
 ## Installation Guide
 
