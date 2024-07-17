@@ -1,6 +1,8 @@
 # DEISI89
 *A GPT-Based Data Augmentation Approach for enhancing Argumentation Mining in Multi-party Dialogues*
 
+- **Final Report** [Here](https://github.com/lcopolillo/TFC-DEISI89/DEISI89_Luiza_Coelho.pdf)
+
 **Author:** Luiza Vidal Copolillo Coelho.
 
 **Advisors:** Professors Zuil Pirola and Manuel Pita.
@@ -25,7 +27,7 @@ This repository contains the code that is being used to extract, model and analy
 In the Pilot Annotation phase, we selected 5 rooms, each one with different topics.With the rooms duly annotated, we set about evaluating this pilot annotation with the aim of achieving **ɑ >= 0.7.** Once this result has been achieved, we will expand the corpus to carry out the main annotation.
 
 ## Annotation Manual
-- **Final Version** https://github.com/lcopolillo/TFC-DEISI89/blob/main/assets/annotation-manual-v3.pdf
+- **Final Version** [Here](https://github.com/lcopolillo/TFC-DEISI89/blob/main/assets/annotation-manual-v3.pdf)
 
 ## Inter-Annotator Agreement (IAA)
 *Krippendorff's Alpha (ɑ) by Klaus Krippendorff*
