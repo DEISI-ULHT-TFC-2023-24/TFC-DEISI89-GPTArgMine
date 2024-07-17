@@ -8,7 +8,19 @@
 **Advisors:** Professors Zuil Pirola and Manuel Pita.
 
 ## Abstract
-This Undergraduate Thesis proposes developing a pipeline for using GPT technology to mine arguments in online chat texts. The central point lies in the design and implementation of a system that takes advantage of GPT's advanced capabilities to identify and analyze arguments present in virtual, multi-party dialogues. The methodology ranges from data collection and preparation to efficient integration with the GPT model, providing valuable insights into the structure and dynamics of the arguments present in these online interactions. This work aims to contribute significantly to the advancement of research around argument mining by analyzing the potential of GPT technology as an effective tool in this context.
+This thesis presents a comprehensive study on utilizing Large Language Models (LLMs), specifically
+GPT-4, for argumentation mining in multi-party dialogues. The primary objective is to investigate
+whether automated annotation techniques can effectively replace manual annotation processes in the
+context of argumentation mining. The research employs a zero-shot prompt engineering approach
+for data annotation to achieve high inter-annotator agreement (IAA) and explores the generation of
+synthetic corpora annotated by both GPT-4 and human annotators. Through rigorous evaluation,
+the study reveals that while GPT-4 demonstrates significant potential as an annotator, offering a
+promising alternative to manual methods, the quality of annotations is notably lower, with a further
+decline observed in the generated datasets. The findings underscore the advantages of automated
+annotation in terms of efficiency and scalability, but highlight the need for continued refinement to
+match human-level quality. This research contributes valuable insights into the practical application
+of LLMs in natural language processing tasks and sets the stage for future work aimed at enhancing
+automated annotation systems.
 
 ## Calendar
 ![Calendar](assets/calendar_v3.png)
